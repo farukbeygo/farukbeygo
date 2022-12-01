@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Beygo</h1>
 <h3 align="center">a mathematics major student at Bilkent University</h3>
 
+
+
 - 🔭 I’m currently working on [artificial_intelligence_trafficlamb](https://github.com/farukbeygo/artificial_intelligence_trafficlamb)
 
 - 🌱 I’m currently learning **Bayesian Statistics**
