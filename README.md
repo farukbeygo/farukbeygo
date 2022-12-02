@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer Faruk Beygo</h1>
+<h1 align="center">Ömer Faruk Beygo</h1>
 <h3 align="center">a mathematics major student at Bilkent University</h3>
 
 
