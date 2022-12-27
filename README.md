@@ -20,6 +20,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukbeygo&show_icons=true&locale=en&layout=compact" color="dark" alt="farukbeygo" /></p>
 
 
