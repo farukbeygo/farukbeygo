@@ -13,9 +13,9 @@ I'm a mathematics student at Bilkent University, and I'm interested in coding wi
 
 Here are some of the projects I've worked on:
 
-- [Delivery Car Game]([https://github.com/[your-username]/DeliveryCarGame](https://github.com/farukbeygo/delivery_game)): a 3D game built with Unity and C# where the player controls a delivery car and must navigate through city streets to deliver packages to customers.
-- [Pong Game]([https://github.com/[your-username]/SnakeGame](https://github.com/farukbeygo/pongGame)): a classic snake game built with Python and the Turtle module.
-- [Project Euler Solutions]([https://github.com/[your-username]/ProjectEulerSolutions](https://github.com/farukbeygo/ProjectEuler)): my solutions to problems from Project Euler, a series of challenging mathematical/computer programming problems.
+- [Delivery Car Game](https://github.com/farukbeygo/delivery_game): a 3D game built with Unity and C# where the player controls a delivery car and must navigate through city streets to deliver packages to customers.
+- [Pong Game](https://github.com/farukbeygo/pongGame): a classic snake game built with Python and the Turtle module.
+- [Project Euler Solutions](https://github.com/farukbeygo/ProjectEuler): my solutions to problems from Project Euler, a series of challenging mathematical/computer programming problems.
 
 ## Contact Me
 
