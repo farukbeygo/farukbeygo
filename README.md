@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 ## Contact Me
 
 - 📧 [faruk.beygo@ug.bilkent.edu.tr]
-- 💬 [[your Twitter handle](https://stackoverflow.com/users/20442734/faruk)]
+- 💬 [[My stackoverflow](https://stackoverflow.com/users/20442734/faruk)]
 
 
 
