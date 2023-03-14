@@ -19,8 +19,8 @@ Here are some of the projects I've worked on:
 
 ## Contact Me
 
-- 📧 [faruk.beygo@ug.bilkent.edu.tr]
-- 💬 [[My stackoverflow](https://stackoverflow.com/users/20442734/faruk)]
+- 📧 [[Email Me](faruk.beygo@ug.bilkent.edu.tr)]
+- 💬 [[My Stack Overflow](https://stackoverflow.com/users/20442734/faruk)]
 
 
 
