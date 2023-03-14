@@ -22,13 +22,6 @@ Here are some of the projects I've worked on:
 - 📧 [[Email Me](faruk.beygo@ug.bilkent.edu.tr)]
 - 💬 [[My Stack Overflow](https://stackoverflow.com/users/20442734/faruk)]
 
-<!-- CodePen Embed -->
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="YourUsername" data-slug-hash="YourPenSlug" style="height: 265px; box-sizing: border-box;" data-pen-title="Your Pen Title">
-  <span>See the Pen <a href="https://codepen.io/YourUsername/pen/YourPenSlug">
-  Your Pen Title</a> by Your Name (<a href="https://codepen.io/YourUsername">@YourUsername</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
 
