@@ -1,27 +1,20 @@
-# Hello, I'm Ömer Faruk Beygo!
+# Hello, I'm Faruk Beygo!
 
-I'm a mathematics student at Bilkent University, and I'm interested in coding with C#, Java, and Python. I'm also fascinated by the field of deep learning and its potential applications.
+Hello, I'm **Faruk Beygo**, a **Mathematics student at Bilkent University** in Ankara, Turkey. I am deeply passionate about **deep learning** and its applications in fields like **image recognition**, **natural language processing**, **robotics**, and **anomaly detection**. Proficient in **Python**, **C++**, and **R**, I am committed to expanding my knowledge and skills in these areas. In addition to my academic pursuits, I actively engage in **extracurricular activities**, including founding and leading the **Bilkent Mathematical Society**, and have a keen interest in **solving logic puzzles**, **swimming**, and exploring different **cultures and languages**.
 
 ## About Me
 
-- 🎓 I'm currently pursuing a degree in Mathematics at Bilkent University.
-- 💻 I'm proficient in C#, Java, and Python, and I'm always eager to learn more.
-- 🤖 I'm interested in the field of deep learning and its potential applications in areas such as image recognition, natural language processing, and robotics.
-- 📚 In my free time, I enjoy reading books on mathematics, computer science, and technology.
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-- [Delivery Car Game](https://github.com/farukbeygo/delivery_game): a 3D game built with Unity and C# where the player controls a delivery car and must navigate through city streets to deliver packages to customers.
-- [Pong Game](https://github.com/farukbeygo/pongGame): a classic pong game built with Python and the Turtle module.
-- [Project Euler Solutions](https://github.com/farukbeygo/ProjectEuler): my solutions to problems from Project Euler, a series of challenging mathematical/computer programming problems.
-- [Bilkent Mathematical Society Website](https://farukbeygo.github.io/): a society website that I have developed for my society with js, css, html and currently I am working on backend.
+- 🎓 **Pursuing a Bachelor's degree in Mathematics at Bilkent University.**
+- 💻 **Proficient in Python, C++, and R**, and always eager to learn more.
+- 🤖 **Enthusiastic about deep learning** and its applications in **image recognition**, **natural language processing**, **robotics**, and **anomaly detection**.
+- 📚 **In my free time, I enjoy reading books on psychoanalysis and philosophy.**
 
 ## Contact Me
 
-- 📧 [[Email Me](faruk.beygo@ug.bilkent.edu.tr)]
-- 💬 [[My Stack Overflow](https://stackoverflow.com/users/20442734/faruk)]
+- 📧 [**Email Me**](mailto:faruk.beygo@ug.bilkent.edu.tr)
+- 💬 [**My Kaggle**](https://www.kaggle.com/faruk21)
+- 📝 [**My Medium**](https://medium.com/@farukbeygo21)
+
 
 
 
